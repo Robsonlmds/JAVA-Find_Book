@@ -7,6 +7,9 @@
 
 <h5 align="center"> 
   <b>✅ Completo</b> | <b>✅ Funcional</b>
+
+  ![Tela inicial](badge-find-book.png)
+
 </h5>
 
 O **Find Book** é uma aplicação em Java que permite aos usuários buscar, gerenciar e organizar informações sobre livros e autores. Utilizando integração com a API do projeto [Gutendex](https://gutendex.com/), a aplicação oferece funcionalidades como busca por livros, listagem de autores e livros salvos, e filtragem por idiomas.
