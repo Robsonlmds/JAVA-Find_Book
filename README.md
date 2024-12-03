@@ -70,9 +70,7 @@ O **Find Book** é uma aplicação em Java que permite aos usuários buscar, ger
 - **Biblioteca Scanner**  
   Para interação com o usuário via CLI.
 
----
-
----
+--- 
 
 <div align="center">
 
