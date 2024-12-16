@@ -19,7 +19,7 @@ O **Find Book** é uma aplicação em Java que permite aos usuários buscar, ger
   
   ## Demonstração
   
-  ![Demonstração do FIPECar](src/main/java/br/com/robsonlmds/assets/video-fipecar.gif)
+  ![Demonstração do find_book](src/assets/tela_inicial.png)
 </div>
 
 ## 📋 Funcionalidades
