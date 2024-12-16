@@ -23,7 +23,7 @@ public class FindBookApplication implements CommandLineRunner {
 	
 	@Override
 	public void run(String... args) throws Exception {
-		Principal principal = new Principal(livrosRepositorio, autorRepositorio);
-		principal.exibeMenu();
+		final Principal principal = new Principal(livrosRepositorio, autorRepositorio);
+		((Object) principal).exibeMenu();
 	}
 }
